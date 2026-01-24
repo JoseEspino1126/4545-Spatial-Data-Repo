@@ -1,4 +1,4 @@
 # **Name**: Jose Espino
 ## **Email**: jsespino21@gmail.com
 ## **Image of me for Slack/ Github**\
-<img src="" width="200">
+<img src="https://github.com/JoseEspino1126/4545-Spatial-Data-Repo/blob/main/pipipipi.jpg" width="200">

@@ -42,10 +42,10 @@ print(movies)
 ## 🔒 Section 2: Tuples
 
 4. What is a key difference between a list and a tuple?  
-   `Answer:` ____________________________
+   `Answer:` Tuples cant be modified after creation and lists can
 
 5. Can you change the contents of a tuple once it is created? Why or why not?  
-   `Answer:` ____________________________
+   `Answer:` no you cant because it is unmutable
 
 ---
 
@@ -54,6 +54,11 @@ print(movies)
 ```python
 # Create a tuple with your favorite 3 numbers.
 # Unpack it into three variables and print each.
+nums = (5 , 3, 7)
+x, y, z = nums
+print(x)
+print(y)
+print(z)
 ```
 
 ---
@@ -61,10 +66,11 @@ print(movies)
 ## 🔑 Section 3: Dictionaries
 
 6. What does the `.get()` method do differently from accessing a key directly?  
-   `Answer:` ____________________________
+   `Answer:` Allows the user to obtain a value from the dictionary but also
+            allows for a exeption check and response
 
 7. How do you loop through both keys and values in a dictionary?  
-   `Answer:` ____________________________
+   `Answer:` for key, value in dict.items():
 
 ---
 
@@ -73,12 +79,14 @@ print(movies)
 ```python
 # Create a dictionary with keys: 'name', 'age', and 'hobby'.
 # Print each key and value in the format "key: value".
+person = {'name' : 'jose', 'age' : '21', 'hobby' : 'games'}
+print(person)
 ```
 
 ---
 
 ## 🧾 Submit Checklist
 
-- [ ] I practiced creating and modifying lists.
-- [ ] I understand how tuples are different from lists.
-- [ ] I accessed and looped through dictionary items.
+- [y] I practiced creating and modifying lists.
+- [y] I understand how tuples are different from lists.
+- [y] I accessed and looped through dictionary items.

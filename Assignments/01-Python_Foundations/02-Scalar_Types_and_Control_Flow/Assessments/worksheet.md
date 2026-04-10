@@ -13,12 +13,11 @@ x = 10
 print(type(x))
 ```
 
-`Answer:` _______________________
+`Answer:` <class 'int'>
 
 2. What scalar type would best represent:
-   - A person's name: _______
-   - Their age: _______
-   - Whether they passed a test: _______
+   - A person's name: string
+   - Their age: int
 
 ---
 
@@ -27,6 +26,15 @@ print(type(x))
 ```python
 # Create a variable for each type and print its value and type
 # Example: an int, float, str, and bool
+
+x = 10
+name = "jose"
+height = "5.6"
+tall = True
+print(x, type(x))
+print(name, type(name))
+print(height, type(name))
+print(tall, type(tall))
 ```
 
 ---
@@ -35,7 +43,7 @@ print(type(x))
 
 3. What does the `!=` operator mean?
 
-`Answer:` _______________________
+`Answer:` it means does not equal
 
 4. What will the following code print?
 
@@ -45,7 +53,7 @@ b = 3
 print(a < b or b < 10)
 ```
 
-`Answer:` _______________________
+`Answer:` true
 
 ---
 
@@ -55,11 +63,15 @@ print(a < b or b < 10)
 
 ```python
 # Your code:
+if grade >= 70:
+   print("pass")
+else:
+   print("fail")
 ```
 
 6. What does `elif` allow you to do?
 
-`Answer:` _______________________
+`Answer:` it allows you to make a second conditional statement
 
 ---
 

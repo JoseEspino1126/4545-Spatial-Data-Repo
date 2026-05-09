@@ -160,59 +160,59 @@ completed_assignments/
 │       │   ├── ✅ 01-Line_Segment_Intersection.ipynb
 │       │   ├── ✅ 02-Line_vs_Polygon_Basics.ipynb
 │       │   ├── ✅ 03-Detecting_Intersections.ipynb
-│       │   ├── ✅ 04-Highlighting_Intersected_Features.ipynb
-│       │   └── ✅ 05-Applications_Missile_Paths.ipynb
+│       │   ├── ❌ 04-Highlighting_Intersected_Features.ipynb
+│       │   └── ❌ 05-Applications_Missile_Paths.ipynb
 │       ├── 10-Buffers/
-│       │   ├── ✅ 00_Buffer_Concepts.ipynb
-│       │   ├── ✅ 01_Buffering_Points.ipynb
-│       │   ├── ✅ 02-Buffering_Lines.ipynb
-│       │   ├── ✅ 03-Comparing_Buffer_Sizes.ipynb
-│       │   ├── ✅ 04-Buffer_Visualization_Strategies.ipynb
-│       │   ├── ✅ 05-CRS_Limitations.ipynb
-│       │   └── ✅ 06-Applications_Impact_Zones.ipynb
+│       │   ├── ❌ 00_Buffer_Concepts.ipynb
+│       │   ├── ❌ 01_Buffering_Points.ipynb
+│       │   ├── ❌ 02-Buffering_Lines.ipynb
+│       │   ├── ❌ 03-Comparing_Buffer_Sizes.ipynb
+│       │   ├── ❌ 04-Buffer_Visualization_Strategies.ipynb
+│       │   ├── ❌ 05-CRS_Limitations.ipynb
+│       │   └── ❌ 06-Applications_Impact_Zones.ipynb
 │       ├── 11-Point_In_Polygon/
-│       │   ├── ✅ 00_Click_Capture.ipynb
-│       │   ├── ✅ 01_Point_Representation.ipynb
-│       │   ├── ✅ 02_Point_In_Polygon_Basics.ipynb
-│       │   ├── ✅ 03_Ray_Casting_Algorithm.ipynb
-│       │   ├── ✅ 04_Testing_Against_Multiple_Features.ipynb
-│       │   ├── ✅ 05_Region_Classification.ipynb
-│       │   └── ✅ 06_Interactive_Click_Applications.ipynb
+│       │   ├── ❌ 00_Click_Capture.ipynb
+│       │   ├── ❌ 01_Point_Representation.ipynb
+│       │   ├── ❌ 02_Point_In_Polygon_Basics.ipynb
+│       │   ├── ❌ 03_Ray_Casting_Algorithm.ipynb
+│       │   ├── ❌ 04_Testing_Against_Multiple_Features.ipynb
+│       │   ├── ❌ 05_Region_Classification.ipynb
+│       │   └── ❌ 06_Interactive_Click_Applications.ipynb
 │       ├── 12-Refactoring/
-│       │   └── ✅ 01-From-Notebook-to-Module.ipynb
+│       │   └── ❌ 01-From-Notebook-to-Module.ipynb
 │       └── 13-WDO_Library/
-│           └── ✅ 01-Installing-and-Using-WDO.ipynb
+│           └── ❌ 01-Installing-and-Using-WDO.ipynb
 └── 03-Data_Manager/
     └── _micro_lessons/
         ├── 00-Data_Exploration/
-        │   ├── ✅ 00-Loading_and_Inspecting.ipynb
-        │   └── ✅ 01-Measuring_the_Problem.ipynb
+        │   ├── ❌ 00-Loading_and_Inspecting.ipynb
+        │   └── ❌ 01-Measuring_the_Problem.ipynb
         ├── 01-Douglas_Peucker/
-        │   ├── ✅ 00-The_Algorithm.ipynb
-        │   ├── ✅ 01-Implementation.ipynb
-        │   └── ✅ 02-Epsilon_and_Tradeoffs.ipynb
+        │   ├── ❌ 00-The_Algorithm.ipynb
+        │   ├── ❌ 01-Implementation.ipynb
+        │   └── ❌ 02-Epsilon_and_Tradeoffs.ipynb
         ├── 02-LOD_Generation/
-        │   ├── ✅ 00-Designing_the_Pipeline.ipynb
-        │   ├── ✅ 01-Writing_the_LOD_Files.ipynb
-        │   └── ✅ 02-Comparing_the_Levels.ipynb
+        │   ├── ❌ 00-Designing_the_Pipeline.ipynb
+        │   ├── ❌ 01-Writing_the_LOD_Files.ipynb
+        │   └── ❌ 02-Comparing_the_Levels.ipynb
         ├── 03-Bounding_Box_Culling/
-        │   ├── ✅ 00-Bounding_Boxes.ipynb
-        │   ├── ✅ 01-Intersection_Test.ipynb
-        │   └── ✅ 02-Viewport_Culling.ipynb
+        │   ├── ❌ 00-Bounding_Boxes.ipynb
+        │   ├── ❌ 01-Intersection_Test.ipynb
+        │   └── ❌ 02-Viewport_Culling.ipynb
         ├── 04-Spatial_Grid_Index/
-        │   ├── ✅ 00-The_Grid_Idea.ipynb
-        │   ├── ✅ 01-Building_the_Index.ipynb
-        │   └── ✅ 02-Querying_and_Benchmarking.ipynb
+        │   ├── ❌ 00-The_Grid_Idea.ipynb
+        │   ├── ❌ 01-Building_the_Index.ipynb
+        │   └── ❌ 02-Querying_and_Benchmarking.ipynb
         ├── 05-Zoom_Layer_Switching/
-        │   ├── ✅ 00-The_Decision_Function.ipynb
-        │   └── ✅ 01-Live_Layer_Switching.ipynb
+        │   ├── ❌ 00-The_Decision_Function.ipynb
+        │   └── ❌ 01-Live_Layer_Switching.ipynb
         ├── 06-Putting_It_Together/
-        │   ├── ✅ 00-The_Viewer.ipynb
-        │   └── ✅ 01-What_We_Built.ipynb
+        │   ├── ❌ 00-The_Viewer.ipynb
+        │   └── ❌ 01-What_We_Built.ipynb
         └── 07-The_Library_Version/
-            ├── ✅ 00-What_Are_Vector_Tiles.ipynb
-            ├── ✅ 01-Using_Tippecanoe.ipynb
-            └── ✅ 02-The_Comparison.ipynb
+            ├── ❌ 00-What_Are_Vector_Tiles.ipynb
+            ├── ❌ 01-Using_Tippecanoe.ipynb
+            └── ❌ 02-The_Comparison.ipynb
 
 ============================================================
   YOUR completed_assignments/ TREE
@@ -640,37 +640,12 @@ completed_assignments/
 │   │   │   └── README.md
 │   │   ├── 09-Intersections
 │   │   │   ├── data
+│   │   │   │   ├── med_arc.geojson
 │   │   │   │   └── paths.geojson
 │   │   │   ├── 00-Lines_as_Paths.ipynb
 │   │   │   ├── 01-Line_Segment_Intersection.ipynb
 │   │   │   ├── 02-Line_vs_Polygon_Basics.ipynb
 │   │   │   ├── 03-Detecting_Intersections.ipynb
-│   │   │   ├── 04-Highlighting_Intersected_Features.ipynb
-│   │   │   ├── 05-Applications_Missile_Paths.ipynb
-│   │   │   └── README.md
-│   │   ├── 10-Buffers
-│   │   │   ├── 00_Buffer_Concepts.ipynb
-│   │   │   ├── 01_Buffering_Points.ipynb
-│   │   │   ├── 02-Buffering_Lines.ipynb
-│   │   │   ├── 03-Comparing_Buffer_Sizes.ipynb
-│   │   │   ├── 04-Buffer_Visualization_Strategies.ipynb
-│   │   │   ├── 05-CRS_Limitations.ipynb
-│   │   │   ├── 06-Applications_Impact_Zones.ipynb
-│   │   │   └── README.md
-│   │   ├── 11-Point_In_Polygon
-│   │   │   ├── 00_Click_Capture.ipynb
-│   │   │   ├── 01_Point_Representation.ipynb
-│   │   │   ├── 02_Point_In_Polygon_Basics.ipynb
-│   │   │   ├── 03_Ray_Casting_Algorithm.ipynb
-│   │   │   ├── 04_Testing_Against_Multiple_Features.ipynb
-│   │   │   ├── 05_Region_Classification.ipynb
-│   │   │   ├── 06_Interactive_Click_Applications.ipynb
-│   │   │   └── README.md
-│   │   ├── 12-Refactoring
-│   │   │   ├── 01-From-Notebook-to-Module.ipynb
-│   │   │   └── README.md
-│   │   ├── 13-WDO_Library
-│   │   │   ├── 01-Installing-and-Using-WDO.ipynb
 │   │   │   └── README.md
 │   │   └── README.md
 │   ├── data
@@ -1098,6 +1073,646 @@ completed_assignments/
 │   │   ├── world_borders.zip
 │   │   ├── world_cities_by_time-zone.json
 │   │   └── world_cities_fixed.json
+│   ├── Resources
+│   │   ├── Commenting_Guide
+│   │   │   ├── c++_comments.md
+│   │   │   ├── python_comments.md
+│   │   │   ├── README.md
+│   │   │   └── README.pdf
+│   │   ├── Data
+│   │   │   ├── Armageddon_Data
+│   │   │   │   ├── json_to_geojson.py
+│   │   │   │   ├── README.md
+│   │   │   │   ├── usa-border_crossings.zip
+│   │   │   │   ├── usa-country_outline.zip
+│   │   │   │   ├── usa-state_capitals.zip
+│   │   │   │   ├── usa-state_counties.zip
+│   │   │   │   ├── usa-us_military_bases.zip
+│   │   │   │   ├── usa-world_military_bases.zip
+│   │   │   │   ├── world-airports.zip
+│   │   │   │   ├── world-cities.zip
+│   │   │   │   ├── world-country_capitals.zip
+│   │   │   │   ├── world-country_codes.zip
+│   │   │   │   ├── world-country_indicators.zip
+│   │   │   │   ├── world-country_outline.zip
+│   │   │   │   ├── world-country_outline2.zip
+│   │   │   │   ├── world-earthquakes.zip
+│   │   │   │   ├── world-meteorites.zip
+│   │   │   │   ├── world-pirate_attacks.zip
+│   │   │   │   ├── world-railroads_10m.zip
+│   │   │   │   ├── world-shipping_lanes.zip
+│   │   │   │   ├── world-ufos.zip
+│   │   │   │   ├── world-volcanos.zip
+│   │   │   │   └── zip_manager.py
+│   │   │   ├── flag-icons
+│   │   │   │   ├── flags
+│   │   │   │   │   ├── 1x1
+│   │   │   │   │   │   ├── ad.svg
+│   │   │   │   │   │   ├── ae.svg
+│   │   │   │   │   │   ├── af.svg
+│   │   │   │   │   │   ├── ag.svg
+│   │   │   │   │   │   ├── ai.svg
+│   │   │   │   │   │   ├── al.svg
+│   │   │   │   │   │   ├── am.svg
+│   │   │   │   │   │   ├── ao.svg
+│   │   │   │   │   │   ├── aq.svg
+│   │   │   │   │   │   ├── ar.svg
+│   │   │   │   │   │   ├── arab.svg
+│   │   │   │   │   │   ├── as.svg
+│   │   │   │   │   │   ├── asean.svg
+│   │   │   │   │   │   ├── at.svg
+│   │   │   │   │   │   ├── au.svg
+│   │   │   │   │   │   ├── aw.svg
+│   │   │   │   │   │   ├── ax.svg
+│   │   │   │   │   │   ├── az.svg
+│   │   │   │   │   │   ├── ba.svg
+│   │   │   │   │   │   ├── bb.svg
+│   │   │   │   │   │   ├── bd.svg
+│   │   │   │   │   │   ├── be.svg
+│   │   │   │   │   │   ├── bf.svg
+│   │   │   │   │   │   ├── bg.svg
+│   │   │   │   │   │   ├── bh.svg
+│   │   │   │   │   │   ├── bi.svg
+│   │   │   │   │   │   ├── bj.svg
+│   │   │   │   │   │   ├── bl.svg
+│   │   │   │   │   │   ├── bm.svg
+│   │   │   │   │   │   ├── bn.svg
+│   │   │   │   │   │   ├── bo.svg
+│   │   │   │   │   │   ├── bq.svg
+│   │   │   │   │   │   ├── br.svg
+│   │   │   │   │   │   ├── bs.svg
+│   │   │   │   │   │   ├── bt.svg
+│   │   │   │   │   │   ├── bv.svg
+│   │   │   │   │   │   ├── bw.svg
+│   │   │   │   │   │   ├── by.svg
+│   │   │   │   │   │   ├── bz.svg
+│   │   │   │   │   │   ├── ca.svg
+│   │   │   │   │   │   ├── cc.svg
+│   │   │   │   │   │   ├── cd.svg
+│   │   │   │   │   │   ├── cefta.svg
+│   │   │   │   │   │   ├── cf.svg
+│   │   │   │   │   │   ├── cg.svg
+│   │   │   │   │   │   ├── ch.svg
+│   │   │   │   │   │   ├── ci.svg
+│   │   │   │   │   │   ├── ck.svg
+│   │   │   │   │   │   ├── cl.svg
+│   │   │   │   │   │   ├── cm.svg
+│   │   │   │   │   │   ├── cn.svg
+│   │   │   │   │   │   ├── co.svg
+│   │   │   │   │   │   ├── cp.svg
+│   │   │   │   │   │   ├── cr.svg
+│   │   │   │   │   │   ├── cu.svg
+│   │   │   │   │   │   ├── cv.svg
+│   │   │   │   │   │   ├── cw.svg
+│   │   │   │   │   │   ├── cx.svg
+│   │   │   │   │   │   ├── cy.svg
+│   │   │   │   │   │   ├── cz.svg
+│   │   │   │   │   │   ├── de.svg
+│   │   │   │   │   │   ├── dg.svg
+│   │   │   │   │   │   ├── dj.svg
+│   │   │   │   │   │   ├── dk.svg
+│   │   │   │   │   │   ├── dm.svg
+│   │   │   │   │   │   ├── do.svg
+│   │   │   │   │   │   ├── dz.svg
+│   │   │   │   │   │   ├── eac.svg
+│   │   │   │   │   │   ├── ec.svg
+│   │   │   │   │   │   ├── ee.svg
+│   │   │   │   │   │   ├── eg.svg
+│   │   │   │   │   │   ├── eh.svg
+│   │   │   │   │   │   ├── er.svg
+│   │   │   │   │   │   ├── es-ct.svg
+│   │   │   │   │   │   ├── es-ga.svg
+│   │   │   │   │   │   ├── es-pv.svg
+│   │   │   │   │   │   ├── es.svg
+│   │   │   │   │   │   ├── et.svg
+│   │   │   │   │   │   ├── eu.svg
+│   │   │   │   │   │   ├── fi.svg
+│   │   │   │   │   │   ├── fj.svg
+│   │   │   │   │   │   ├── fk.svg
+│   │   │   │   │   │   ├── fm.svg
+│   │   │   │   │   │   ├── fo.svg
+│   │   │   │   │   │   ├── fr.svg
+│   │   │   │   │   │   ├── ga.svg
+│   │   │   │   │   │   ├── gb-eng.svg
+│   │   │   │   │   │   ├── gb-nir.svg
+│   │   │   │   │   │   ├── gb-sct.svg
+│   │   │   │   │   │   ├── gb-wls.svg
+│   │   │   │   │   │   ├── gb.svg
+│   │   │   │   │   │   ├── gd.svg
+│   │   │   │   │   │   ├── ge.svg
+│   │   │   │   │   │   ├── gf.svg
+│   │   │   │   │   │   ├── gg.svg
+│   │   │   │   │   │   ├── gh.svg
+│   │   │   │   │   │   ├── gi.svg
+│   │   │   │   │   │   ├── gl.svg
+│   │   │   │   │   │   ├── gm.svg
+│   │   │   │   │   │   ├── gn.svg
+│   │   │   │   │   │   ├── gp.svg
+│   │   │   │   │   │   ├── gq.svg
+│   │   │   │   │   │   ├── gr.svg
+│   │   │   │   │   │   ├── gs.svg
+│   │   │   │   │   │   ├── gt.svg
+│   │   │   │   │   │   ├── gu.svg
+│   │   │   │   │   │   ├── gw.svg
+│   │   │   │   │   │   ├── gy.svg
+│   │   │   │   │   │   ├── hk.svg
+│   │   │   │   │   │   ├── hm.svg
+│   │   │   │   │   │   ├── hn.svg
+│   │   │   │   │   │   ├── hr.svg
+│   │   │   │   │   │   ├── ht.svg
+│   │   │   │   │   │   ├── hu.svg
+│   │   │   │   │   │   ├── ic.svg
+│   │   │   │   │   │   ├── id.svg
+│   │   │   │   │   │   ├── ie.svg
+│   │   │   │   │   │   ├── il.svg
+│   │   │   │   │   │   ├── im.svg
+│   │   │   │   │   │   ├── in.svg
+│   │   │   │   │   │   ├── io.svg
+│   │   │   │   │   │   ├── iq.svg
+│   │   │   │   │   │   ├── ir.svg
+│   │   │   │   │   │   ├── is.svg
+│   │   │   │   │   │   ├── it.svg
+│   │   │   │   │   │   ├── je.svg
+│   │   │   │   │   │   ├── jm.svg
+│   │   │   │   │   │   ├── jo.svg
+│   │   │   │   │   │   ├── jp.svg
+│   │   │   │   │   │   ├── ke.svg
+│   │   │   │   │   │   ├── kg.svg
+│   │   │   │   │   │   ├── kh.svg
+│   │   │   │   │   │   ├── ki.svg
+│   │   │   │   │   │   ├── km.svg
+│   │   │   │   │   │   ├── kn.svg
+│   │   │   │   │   │   ├── kp.svg
+│   │   │   │   │   │   ├── kr.svg
+│   │   │   │   │   │   ├── kw.svg
+│   │   │   │   │   │   ├── ky.svg
+│   │   │   │   │   │   ├── kz.svg
+│   │   │   │   │   │   ├── la.svg
+│   │   │   │   │   │   ├── lb.svg
+│   │   │   │   │   │   ├── lc.svg
+│   │   │   │   │   │   ├── li.svg
+│   │   │   │   │   │   ├── lk.svg
+│   │   │   │   │   │   ├── lr.svg
+│   │   │   │   │   │   ├── ls.svg
+│   │   │   │   │   │   ├── lt.svg
+│   │   │   │   │   │   ├── lu.svg
+│   │   │   │   │   │   ├── lv.svg
+│   │   │   │   │   │   ├── ly.svg
+│   │   │   │   │   │   ├── ma.svg
+│   │   │   │   │   │   ├── mc.svg
+│   │   │   │   │   │   ├── md.svg
+│   │   │   │   │   │   ├── me.svg
+│   │   │   │   │   │   ├── mf.svg
+│   │   │   │   │   │   ├── mg.svg
+│   │   │   │   │   │   ├── mh.svg
+│   │   │   │   │   │   ├── mk.svg
+│   │   │   │   │   │   ├── ml.svg
+│   │   │   │   │   │   ├── mm.svg
+│   │   │   │   │   │   ├── mn.svg
+│   │   │   │   │   │   ├── mo.svg
+│   │   │   │   │   │   ├── mp.svg
+│   │   │   │   │   │   ├── mq.svg
+│   │   │   │   │   │   ├── mr.svg
+│   │   │   │   │   │   ├── ms.svg
+│   │   │   │   │   │   ├── mt.svg
+│   │   │   │   │   │   ├── mu.svg
+│   │   │   │   │   │   ├── mv.svg
+│   │   │   │   │   │   ├── mw.svg
+│   │   │   │   │   │   ├── mx.svg
+│   │   │   │   │   │   ├── my.svg
+│   │   │   │   │   │   ├── mz.svg
+│   │   │   │   │   │   ├── na.svg
+│   │   │   │   │   │   ├── nc.svg
+│   │   │   │   │   │   ├── ne.svg
+│   │   │   │   │   │   ├── nf.svg
+│   │   │   │   │   │   ├── ng.svg
+│   │   │   │   │   │   ├── ni.svg
+│   │   │   │   │   │   ├── nl.svg
+│   │   │   │   │   │   ├── no.svg
+│   │   │   │   │   │   ├── np.svg
+│   │   │   │   │   │   ├── nr.svg
+│   │   │   │   │   │   ├── nu.svg
+│   │   │   │   │   │   ├── nz.svg
+│   │   │   │   │   │   ├── om.svg
+│   │   │   │   │   │   ├── pa.svg
+│   │   │   │   │   │   ├── pc.svg
+│   │   │   │   │   │   ├── pe.svg
+│   │   │   │   │   │   ├── pf.svg
+│   │   │   │   │   │   ├── pg.svg
+│   │   │   │   │   │   ├── ph.svg
+│   │   │   │   │   │   ├── pk.svg
+│   │   │   │   │   │   ├── pl.svg
+│   │   │   │   │   │   ├── pm.svg
+│   │   │   │   │   │   ├── pn.svg
+│   │   │   │   │   │   ├── pr.svg
+│   │   │   │   │   │   ├── ps.svg
+│   │   │   │   │   │   ├── pt.svg
+│   │   │   │   │   │   ├── pw.svg
+│   │   │   │   │   │   ├── py.svg
+│   │   │   │   │   │   ├── qa.svg
+│   │   │   │   │   │   ├── re.svg
+│   │   │   │   │   │   ├── ro.svg
+│   │   │   │   │   │   ├── rs.svg
+│   │   │   │   │   │   ├── ru.svg
+│   │   │   │   │   │   ├── rw.svg
+│   │   │   │   │   │   ├── sa.svg
+│   │   │   │   │   │   ├── sb.svg
+│   │   │   │   │   │   ├── sc.svg
+│   │   │   │   │   │   ├── sd.svg
+│   │   │   │   │   │   ├── se.svg
+│   │   │   │   │   │   ├── sg.svg
+│   │   │   │   │   │   ├── sh-ac.svg
+│   │   │   │   │   │   ├── sh-hl.svg
+│   │   │   │   │   │   ├── sh-ta.svg
+│   │   │   │   │   │   ├── sh.svg
+│   │   │   │   │   │   ├── si.svg
+│   │   │   │   │   │   ├── sj.svg
+│   │   │   │   │   │   ├── sk.svg
+│   │   │   │   │   │   ├── sl.svg
+│   │   │   │   │   │   ├── sm.svg
+│   │   │   │   │   │   ├── sn.svg
+│   │   │   │   │   │   ├── so.svg
+│   │   │   │   │   │   ├── sr.svg
+│   │   │   │   │   │   ├── ss.svg
+│   │   │   │   │   │   ├── st.svg
+│   │   │   │   │   │   ├── sv.svg
+│   │   │   │   │   │   ├── sx.svg
+│   │   │   │   │   │   ├── sy.svg
+│   │   │   │   │   │   ├── sz.svg
+│   │   │   │   │   │   ├── tc.svg
+│   │   │   │   │   │   ├── td.svg
+│   │   │   │   │   │   ├── tf.svg
+│   │   │   │   │   │   ├── tg.svg
+│   │   │   │   │   │   ├── th.svg
+│   │   │   │   │   │   ├── tj.svg
+│   │   │   │   │   │   ├── tk.svg
+│   │   │   │   │   │   ├── tl.svg
+│   │   │   │   │   │   ├── tm.svg
+│   │   │   │   │   │   ├── tn.svg
+│   │   │   │   │   │   ├── to.svg
+│   │   │   │   │   │   ├── tr.svg
+│   │   │   │   │   │   ├── tt.svg
+│   │   │   │   │   │   ├── tv.svg
+│   │   │   │   │   │   ├── tw.svg
+│   │   │   │   │   │   ├── tz.svg
+│   │   │   │   │   │   ├── ua.svg
+│   │   │   │   │   │   ├── ug.svg
+│   │   │   │   │   │   ├── um.svg
+│   │   │   │   │   │   ├── un.svg
+│   │   │   │   │   │   ├── us.svg
+│   │   │   │   │   │   ├── uy.svg
+│   │   │   │   │   │   ├── uz.svg
+│   │   │   │   │   │   ├── va.svg
+│   │   │   │   │   │   ├── vc.svg
+│   │   │   │   │   │   ├── ve.svg
+│   │   │   │   │   │   ├── vg.svg
+│   │   │   │   │   │   ├── vi.svg
+│   │   │   │   │   │   ├── vn.svg
+│   │   │   │   │   │   ├── vu.svg
+│   │   │   │   │   │   ├── wf.svg
+│   │   │   │   │   │   ├── ws.svg
+│   │   │   │   │   │   ├── xk.svg
+│   │   │   │   │   │   ├── xx.svg
+│   │   │   │   │   │   ├── ye.svg
+│   │   │   │   │   │   ├── yt.svg
+│   │   │   │   │   │   ├── za.svg
+│   │   │   │   │   │   ├── zm.svg
+│   │   │   │   │   │   └── zw.svg
+│   │   │   │   │   └── 4x3
+│   │   │   │   │       ├── ad.svg
+│   │   │   │   │       ├── ae.svg
+│   │   │   │   │       ├── af.svg
+│   │   │   │   │       ├── ag.svg
+│   │   │   │   │       ├── ai.svg
+│   │   │   │   │       ├── al.svg
+│   │   │   │   │       ├── am.svg
+│   │   │   │   │       ├── ao.svg
+│   │   │   │   │       ├── aq.svg
+│   │   │   │   │       ├── ar.svg
+│   │   │   │   │       ├── arab.svg
+│   │   │   │   │       ├── as.svg
+│   │   │   │   │       ├── asean.svg
+│   │   │   │   │       ├── at.svg
+│   │   │   │   │       ├── au.svg
+│   │   │   │   │       ├── aw.svg
+│   │   │   │   │       ├── ax.svg
+│   │   │   │   │       ├── az.svg
+│   │   │   │   │       ├── ba.svg
+│   │   │   │   │       ├── bb.svg
+│   │   │   │   │       ├── bd.svg
+│   │   │   │   │       ├── be.svg
+│   │   │   │   │       ├── bf.svg
+│   │   │   │   │       ├── bg.svg
+│   │   │   │   │       ├── bh.svg
+│   │   │   │   │       ├── bi.svg
+│   │   │   │   │       ├── bj.svg
+│   │   │   │   │       ├── bl.svg
+│   │   │   │   │       ├── bm.svg
+│   │   │   │   │       ├── bn.svg
+│   │   │   │   │       ├── bo.svg
+│   │   │   │   │       ├── bq.svg
+│   │   │   │   │       ├── br.svg
+│   │   │   │   │       ├── bs.svg
+│   │   │   │   │       ├── bt.svg
+│   │   │   │   │       ├── bv.svg
+│   │   │   │   │       ├── bw.svg
+│   │   │   │   │       ├── by.svg
+│   │   │   │   │       ├── bz.svg
+│   │   │   │   │       ├── ca.svg
+│   │   │   │   │       ├── cc.svg
+│   │   │   │   │       ├── cd.svg
+│   │   │   │   │       ├── cefta.svg
+│   │   │   │   │       ├── cf.svg
+│   │   │   │   │       ├── cg.svg
+│   │   │   │   │       ├── ch.svg
+│   │   │   │   │       ├── ci.svg
+│   │   │   │   │       ├── ck.svg
+│   │   │   │   │       ├── cl.svg
+│   │   │   │   │       ├── cm.svg
+│   │   │   │   │       ├── cn.svg
+│   │   │   │   │       ├── co.svg
+│   │   │   │   │       ├── cp.svg
+│   │   │   │   │       ├── cr.svg
+│   │   │   │   │       ├── cu.svg
+│   │   │   │   │       ├── cv.svg
+│   │   │   │   │       ├── cw.svg
+│   │   │   │   │       ├── cx.svg
+│   │   │   │   │       ├── cy.svg
+│   │   │   │   │       ├── cz.svg
+│   │   │   │   │       ├── de.svg
+│   │   │   │   │       ├── dg.svg
+│   │   │   │   │       ├── dj.svg
+│   │   │   │   │       ├── dk.svg
+│   │   │   │   │       ├── dm.svg
+│   │   │   │   │       ├── do.svg
+│   │   │   │   │       ├── dz.svg
+│   │   │   │   │       ├── eac.svg
+│   │   │   │   │       ├── ec.svg
+│   │   │   │   │       ├── ee.svg
+│   │   │   │   │       ├── eg.svg
+│   │   │   │   │       ├── eh.svg
+│   │   │   │   │       ├── er.svg
+│   │   │   │   │       ├── es-ct.svg
+│   │   │   │   │       ├── es-ga.svg
+│   │   │   │   │       ├── es-pv.svg
+│   │   │   │   │       ├── es.svg
+│   │   │   │   │       ├── et.svg
+│   │   │   │   │       ├── eu.svg
+│   │   │   │   │       ├── fi.svg
+│   │   │   │   │       ├── fj.svg
+│   │   │   │   │       ├── fk.svg
+│   │   │   │   │       ├── fm.svg
+│   │   │   │   │       ├── fo.svg
+│   │   │   │   │       ├── fr.svg
+│   │   │   │   │       ├── ga.svg
+│   │   │   │   │       ├── gb-eng.svg
+│   │   │   │   │       ├── gb-nir.svg
+│   │   │   │   │       ├── gb-sct.svg
+│   │   │   │   │       ├── gb-wls.svg
+│   │   │   │   │       ├── gb.svg
+│   │   │   │   │       ├── gd.svg
+│   │   │   │   │       ├── ge.svg
+│   │   │   │   │       ├── gf.svg
+│   │   │   │   │       ├── gg.svg
+│   │   │   │   │       ├── gh.svg
+│   │   │   │   │       ├── gi.svg
+│   │   │   │   │       ├── gl.svg
+│   │   │   │   │       ├── gm.svg
+│   │   │   │   │       ├── gn.svg
+│   │   │   │   │       ├── gp.svg
+│   │   │   │   │       ├── gq.svg
+│   │   │   │   │       ├── gr.svg
+│   │   │   │   │       ├── gs.svg
+│   │   │   │   │       ├── gt.svg
+│   │   │   │   │       ├── gu.svg
+│   │   │   │   │       ├── gw.svg
+│   │   │   │   │       ├── gy.svg
+│   │   │   │   │       ├── hk.svg
+│   │   │   │   │       ├── hm.svg
+│   │   │   │   │       ├── hn.svg
+│   │   │   │   │       ├── hr.svg
+│   │   │   │   │       ├── ht.svg
+│   │   │   │   │       ├── hu.svg
+│   │   │   │   │       ├── ic.svg
+│   │   │   │   │       ├── id.svg
+│   │   │   │   │       ├── ie.svg
+│   │   │   │   │       ├── il.svg
+│   │   │   │   │       ├── im.svg
+│   │   │   │   │       ├── in.svg
+│   │   │   │   │       ├── io.svg
+│   │   │   │   │       ├── iq.svg
+│   │   │   │   │       ├── ir.svg
+│   │   │   │   │       ├── is.svg
+│   │   │   │   │       ├── it.svg
+│   │   │   │   │       ├── je.svg
+│   │   │   │   │       ├── jm.svg
+│   │   │   │   │       ├── jo.svg
+│   │   │   │   │       ├── jp.svg
+│   │   │   │   │       ├── ke.svg
+│   │   │   │   │       ├── kg.svg
+│   │   │   │   │       ├── kh.svg
+│   │   │   │   │       ├── ki.svg
+│   │   │   │   │       ├── km.svg
+│   │   │   │   │       ├── kn.svg
+│   │   │   │   │       ├── kp.svg
+│   │   │   │   │       ├── kr.svg
+│   │   │   │   │       ├── kw.svg
+│   │   │   │   │       ├── ky.svg
+│   │   │   │   │       ├── kz.svg
+│   │   │   │   │       ├── la.svg
+│   │   │   │   │       ├── lb.svg
+│   │   │   │   │       ├── lc.svg
+│   │   │   │   │       ├── li.svg
+│   │   │   │   │       ├── lk.svg
+│   │   │   │   │       ├── lr.svg
+│   │   │   │   │       ├── ls.svg
+│   │   │   │   │       ├── lt.svg
+│   │   │   │   │       ├── lu.svg
+│   │   │   │   │       ├── lv.svg
+│   │   │   │   │       ├── ly.svg
+│   │   │   │   │       ├── ma.svg
+│   │   │   │   │       ├── mc.svg
+│   │   │   │   │       ├── md.svg
+│   │   │   │   │       ├── me.svg
+│   │   │   │   │       ├── mf.svg
+│   │   │   │   │       ├── mg.svg
+│   │   │   │   │       ├── mh.svg
+│   │   │   │   │       ├── mk.svg
+│   │   │   │   │       ├── ml.svg
+│   │   │   │   │       ├── mm.svg
+│   │   │   │   │       ├── mn.svg
+│   │   │   │   │       ├── mo.svg
+│   │   │   │   │       ├── mp.svg
+│   │   │   │   │       ├── mq.svg
+│   │   │   │   │       ├── mr.svg
+│   │   │   │   │       ├── ms.svg
+│   │   │   │   │       ├── mt.svg
+│   │   │   │   │       ├── mu.svg
+│   │   │   │   │       ├── mv.svg
+│   │   │   │   │       ├── mw.svg
+│   │   │   │   │       ├── mx.svg
+│   │   │   │   │       ├── my.svg
+│   │   │   │   │       ├── mz.svg
+│   │   │   │   │       ├── na.svg
+│   │   │   │   │       ├── nc.svg
+│   │   │   │   │       ├── ne.svg
+│   │   │   │   │       ├── nf.svg
+│   │   │   │   │       ├── ng.svg
+│   │   │   │   │       ├── ni.svg
+│   │   │   │   │       ├── nl.svg
+│   │   │   │   │       ├── no.svg
+│   │   │   │   │       ├── np.svg
+│   │   │   │   │       ├── nr.svg
+│   │   │   │   │       ├── nu.svg
+│   │   │   │   │       ├── nz.svg
+│   │   │   │   │       ├── om.svg
+│   │   │   │   │       ├── pa.svg
+│   │   │   │   │       ├── pc.svg
+│   │   │   │   │       ├── pe.svg
+│   │   │   │   │       ├── pf.svg
+│   │   │   │   │       ├── pg.svg
+│   │   │   │   │       ├── ph.svg
+│   │   │   │   │       ├── pk.svg
+│   │   │   │   │       ├── pl.svg
+│   │   │   │   │       ├── pm.svg
+│   │   │   │   │       ├── pn.svg
+│   │   │   │   │       ├── pr.svg
+│   │   │   │   │       ├── ps.svg
+│   │   │   │   │       ├── pt.svg
+│   │   │   │   │       ├── pw.svg
+│   │   │   │   │       ├── py.svg
+│   │   │   │   │       ├── qa.svg
+│   │   │   │   │       ├── re.svg
+│   │   │   │   │       ├── ro.svg
+│   │   │   │   │       ├── rs.svg
+│   │   │   │   │       ├── ru.svg
+│   │   │   │   │       ├── rw.svg
+│   │   │   │   │       ├── sa.svg
+│   │   │   │   │       ├── sb.svg
+│   │   │   │   │       ├── sc.svg
+│   │   │   │   │       ├── sd.svg
+│   │   │   │   │       ├── se.svg
+│   │   │   │   │       ├── sg.svg
+│   │   │   │   │       ├── sh-ac.svg
+│   │   │   │   │       ├── sh-hl.svg
+│   │   │   │   │       ├── sh-ta.svg
+│   │   │   │   │       ├── sh.svg
+│   │   │   │   │       ├── si.svg
+│   │   │   │   │       ├── sj.svg
+│   │   │   │   │       ├── sk.svg
+│   │   │   │   │       ├── sl.svg
+│   │   │   │   │       ├── sm.svg
+│   │   │   │   │       ├── sn.svg
+│   │   │   │   │       ├── so.svg
+│   │   │   │   │       ├── sr.svg
+│   │   │   │   │       ├── ss.svg
+│   │   │   │   │       ├── st.svg
+│   │   │   │   │       ├── sv.svg
+│   │   │   │   │       ├── sx.svg
+│   │   │   │   │       ├── sy.svg
+│   │   │   │   │       ├── sz.svg
+│   │   │   │   │       ├── tc.svg
+│   │   │   │   │       ├── td.svg
+│   │   │   │   │       ├── tf.svg
+│   │   │   │   │       ├── tg.svg
+│   │   │   │   │       ├── th.svg
+│   │   │   │   │       ├── tj.svg
+│   │   │   │   │       ├── tk.svg
+│   │   │   │   │       ├── tl.svg
+│   │   │   │   │       ├── tm.svg
+│   │   │   │   │       ├── tn.svg
+│   │   │   │   │       ├── to.svg
+│   │   │   │   │       ├── tr.svg
+│   │   │   │   │       ├── tt.svg
+│   │   │   │   │       ├── tv.svg
+│   │   │   │   │       ├── tw.svg
+│   │   │   │   │       ├── tz.svg
+│   │   │   │   │       ├── ua.svg
+│   │   │   │   │       ├── ug.svg
+│   │   │   │   │       ├── um.svg
+│   │   │   │   │       ├── un.svg
+│   │   │   │   │       ├── us.svg
+│   │   │   │   │       ├── uy.svg
+│   │   │   │   │       ├── uz.svg
+│   │   │   │   │       ├── va.svg
+│   │   │   │   │       ├── vc.svg
+│   │   │   │   │       ├── ve.svg
+│   │   │   │   │       ├── vg.svg
+│   │   │   │   │       ├── vi.svg
+│   │   │   │   │       ├── vn.svg
+│   │   │   │   │       ├── vu.svg
+│   │   │   │   │       ├── wf.svg
+│   │   │   │   │       ├── ws.svg
+│   │   │   │   │       ├── xk.svg
+│   │   │   │   │       ├── xx.svg
+│   │   │   │   │       ├── ye.svg
+│   │   │   │   │       ├── yt.svg
+│   │   │   │   │       ├── za.svg
+│   │   │   │   │       ├── zm.svg
+│   │   │   │   │       └── zw.svg
+│   │   │   │   └── country.json
+│   │   │   ├── convert_2_geojson.py
+│   │   │   ├── countries.geojson
+│   │   │   ├── countries_older.json
+│   │   │   ├── csv2json.py
+│   │   │   ├── data_summary.py
+│   │   │   └── json_to_geojson.py
+│   │   ├── FoliumGuide
+│   │   │   └── README.md
+│   │   ├── IpyLeafletGuide
+│   │   │   ├── 01_Click_To_Place_Markers.ipynb
+│   │   │   ├── 02_Slider_Controlled_Threat_Rings.ipynb
+│   │   │   ├── 03_Click_Driven_Point_In_Polygon.ipynb
+│   │   │   └── README.md
+│   │   ├── Pathlib_Guide
+│   │   │   └── README.md
+│   │   ├── Readmees_Guide
+│   │   │   └── README.md
+│   │   ├── wdo
+│   │   │   ├── games
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── pursuit.py
+│   │   │   │   └── worldle.py
+│   │   │   ├── geometry
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── bbox.py
+│   │   │   │   ├── bearing.py
+│   │   │   │   ├── distance.py
+│   │   │   │   ├── interpolation.py
+│   │   │   │   ├── points.py
+│   │   │   │   └── simplify.py
+│   │   │   ├── graphs
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── connectivity.py
+│   │   │   │   ├── rail_graph.py
+│   │   │   │   └── routing.py
+│   │   │   ├── io
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── geojson_tools.py
+│   │   │   │   ├── json_tools.py
+│   │   │   │   └── paths.py
+│   │   │   ├── maps
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── interaction.py
+│   │   │   │   ├── leaflet_helpers.py
+│   │   │   │   └── style_tools.py
+│   │   │   ├── spatial
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── buffers.py
+│   │   │   │   ├── feature_queries.py
+│   │   │   │   ├── intersections.py
+│   │   │   │   └── pip.py
+│   │   │   ├── utils
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── formatting.py
+│   │   │   │   └── validation.py
+│   │   │   ├── __init__.py
+│   │   │   ├── build_scaffold.py
+│   │   │   └── README.md
+│   │   ├── GeoJsonRules.md
+│   │   ├── Helpful_Links.md
+│   │   ├── meta.yaml
+│   │   └── README.md
 │   ├── src
 │   │   ├── wdo
 │   │   │   ├── __init__.py
@@ -1114,49 +1729,6 @@ completed_assignments/
 │   │   │   └── top_level.txt
 │   │   └── workload_generator_v2.cpp
 │   └── pyproject.toml
-├── 03-Data_Manager
-│   ├── _micro_lessons
-│   │   ├── 00-Data_Exploration
-│   │   │   ├── 00-Loading_and_Inspecting.ipynb
-│   │   │   ├── 01-Measuring_the_Problem.ipynb
-│   │   │   └── README.md
-│   │   ├── 01-Douglas_Peucker
-│   │   │   ├── 00-The_Algorithm.ipynb
-│   │   │   ├── 01-Implementation.ipynb
-│   │   │   ├── 02-Epsilon_and_Tradeoffs.ipynb
-│   │   │   └── README.md
-│   │   ├── 02-LOD_Generation
-│   │   │   ├── 00-Designing_the_Pipeline.ipynb
-│   │   │   ├── 01-Writing_the_LOD_Files.ipynb
-│   │   │   ├── 02-Comparing_the_Levels.ipynb
-│   │   │   └── README.md
-│   │   ├── 03-Bounding_Box_Culling
-│   │   │   ├── 00-Bounding_Boxes.ipynb
-│   │   │   ├── 01-Intersection_Test.ipynb
-│   │   │   ├── 02-Viewport_Culling.ipynb
-│   │   │   └── README.md
-│   │   ├── 04-Spatial_Grid_Index
-│   │   │   ├── 00-The_Grid_Idea.ipynb
-│   │   │   ├── 01-Building_the_Index.ipynb
-│   │   │   ├── 02-Querying_and_Benchmarking.ipynb
-│   │   │   └── README.md
-│   │   ├── 05-Zoom_Layer_Switching
-│   │   │   ├── 00-The_Decision_Function.ipynb
-│   │   │   ├── 01-Live_Layer_Switching.ipynb
-│   │   │   └── README.md
-│   │   ├── 06-Putting_It_Together
-│   │   │   ├── 00-The_Viewer.ipynb
-│   │   │   ├── 01-What_We_Built.ipynb
-│   │   │   └── README.md
-│   │   ├── 07-The_Library_Version
-│   │   │   ├── 00-What_Are_Vector_Tiles.ipynb
-│   │   │   ├── 01-Using_Tippecanoe.ipynb
-│   │   │   ├── 02-The_Comparison.ipynb
-│   │   │   └── README.md
-│   │   └── README.md
-│   ├── data
-│   │   └── ne_10m_railroads.geojson
-│   └── README.md
 ├── 02-Viewing_Geojson.ipynb
 └── README.md
 
@@ -1173,14 +1745,14 @@ completed_assignments/
     Goal: complete all 11 + include your working project
 
   02-Missile_Geometry_202
-    60/60  [████████████████████████████████████████████████████████████]
+    42/60  [██████████████████████████████████████████░░░░░░░░░░░░░░░░░░]
     Goal: complete all 60 notebooks
 
   03-Data_Manager
-    21/21  [█████████████████████]
+    0/21  [░░░░░░░░░░░░░░░░░░░░░]
     Goal: complete all 21 notebooks
 
-  Total: 119/130 notebooks found
+  Total: 80/130 notebooks found
 
 
 ============================================================
@@ -1189,5 +1761,5 @@ completed_assignments/
   Use a number from 0 to 10, where 10 = 100% complete.
 ============================================================
 
-  Score: __ / 10
+  Score: 6 / 10
 

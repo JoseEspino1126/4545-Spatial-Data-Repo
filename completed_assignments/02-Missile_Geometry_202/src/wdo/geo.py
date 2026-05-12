@@ -54,6 +54,19 @@ def normalize_bearing_deg(bearing: float) -> float:
     b = bearing % 360.0
     return b if b >= 0 else b + 360.0
 
+# ----------------------------------------
+# Midpoint
+# ----------------------------------------
+def midpoint(p1, p2):
+    """
+    Returns midpoint between two LatLon objects (simple average).
+    """
+    return LatLon(
+        lat=(p1.lat + p2.lat) / 2,
+        lon=(p1.lon + p2.lon) / 2
+    )
+
+
 
 # ----------------------------------------
 # Distance: Haversine (km)

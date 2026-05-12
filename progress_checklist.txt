@@ -163,25 +163,25 @@ completed_assignments/
 │       │   ├── ❌ 04-Highlighting_Intersected_Features.ipynb
 │       │   └── ❌ 05-Applications_Missile_Paths.ipynb
 │       ├── 10-Buffers/
-│       │   ├── ❌ 00_Buffer_Concepts.ipynb
-│       │   ├── ❌ 01_Buffering_Points.ipynb
-│       │   ├── ❌ 02-Buffering_Lines.ipynb
-│       │   ├── ❌ 03-Comparing_Buffer_Sizes.ipynb
-│       │   ├── ❌ 04-Buffer_Visualization_Strategies.ipynb
-│       │   ├── ❌ 05-CRS_Limitations.ipynb
-│       │   └── ❌ 06-Applications_Impact_Zones.ipynb
+│       │   ├── ✅ 00_Buffer_Concepts.ipynb
+│       │   ├── ✅ 01_Buffering_Points.ipynb
+│       │   ├── ✅ 02-Buffering_Lines.ipynb
+│       │   ├── ✅ 03-Comparing_Buffer_Sizes.ipynb
+│       │   ├── ✅ 04-Buffer_Visualization_Strategies.ipynb
+│       │   ├── ✅ 05-CRS_Limitations.ipynb
+│       │   └── ✅ 06-Applications_Impact_Zones.ipynb
 │       ├── 11-Point_In_Polygon/
-│       │   ├── ❌ 00_Click_Capture.ipynb
-│       │   ├── ❌ 01_Point_Representation.ipynb
-│       │   ├── ❌ 02_Point_In_Polygon_Basics.ipynb
-│       │   ├── ❌ 03_Ray_Casting_Algorithm.ipynb
-│       │   ├── ❌ 04_Testing_Against_Multiple_Features.ipynb
-│       │   ├── ❌ 05_Region_Classification.ipynb
-│       │   └── ❌ 06_Interactive_Click_Applications.ipynb
+│       │   ├── ✅ 00_Click_Capture.ipynb
+│       │   ├── ✅ 01_Point_Representation.ipynb
+│       │   ├── ✅ 02_Point_In_Polygon_Basics.ipynb
+│       │   ├── ✅ 03_Ray_Casting_Algorithm.ipynb
+│       │   ├── ✅ 04_Testing_Against_Multiple_Features.ipynb
+│       │   ├── ✅ 05_Region_Classification.ipynb
+│       │   └── ✅ 06_Interactive_Click_Applications.ipynb
 │       ├── 12-Refactoring/
-│       │   └── ❌ 01-From-Notebook-to-Module.ipynb
+│       │   └── ✅ 01-From-Notebook-to-Module.ipynb
 │       └── 13-WDO_Library/
-│           └── ❌ 01-Installing-and-Using-WDO.ipynb
+│           └── ✅ 01-Installing-and-Using-WDO.ipynb
 └── 03-Data_Manager/
     └── _micro_lessons/
         ├── 00-Data_Exploration/
@@ -570,19 +570,115 @@ completed_assignments/
 ├── 02-Missile_Geometry_202
 │   ├── _micro_lessons
 │   │   ├── 00-Paths
-│   │   │   ├── data
-│   │   │   ├── output
 │   │   │   ├── 00-Working_Directory.ipynb
 │   │   │   ├── 01-Relative_vs_Absolute.ipynb
 │   │   │   ├── 02-Data_Elsewhere.ipynb
 │   │   │   ├── 03-Find_Project_Root.ipynb
 │   │   │   └── README.md
 │   │   ├── 01-JSON_GeoJSON
+│   │   │   ├── 00-Reading_JSON.ipynb
+│   │   │   ├── 01-GeoJSON_Structure.ipynb
+│   │   │   ├── 02-Feature_Collections.ipynb
+│   │   │   └── README.md
+│   │   ├── 02-Viewing_GeoJSON
 │   │   │   ├── data
-│   │   │   │   ├── heavy_meteorites.geojson
-│   │   │   │   ├── latex_colors.json
 │   │   │   │   ├── meteorites.geojson
-│   │   │   │   └── my_collection.geojson
+│   │   │   │   └── wichita_falls.geojson
+│   │   │   ├── 00-Geojson.io.ipynb
+│   │   │   ├── 01-iPyLeaflet_Intro.ipynb
+│   │   │   ├── 02-Add_GeoJSON.ipynb
+│   │   │   ├── 03-Map_Control.ipynb
+│   │   │   └── README.md
+│   │   ├── 03-Attributes_Styling_Filtering
+│   │   │   ├── 00-Properties.ipynb
+│   │   │   ├── 01-Style_Functions.ipynb
+│   │   │   ├── 02-Filtering.ipynb
+│   │   │   └── README.md
+│   │   ├── 04-Interactive_Maps
+│   │   │   ├── 00-Map_Events.ipynb
+│   │   │   ├── 01-Click_Interactions.ipynb
+│   │   │   ├── 02-Dynamic_Layers.ipynb
+│   │   │   ├── 03-User_Feedback.ipynb
+│   │   │   ├── clicked_points.geojson
+│   │   │   └── README.md
+│   │   ├── 05-Coordinate_Geometry
+│   │   │   ├── 00-Coordinate_Ranges.ipynb
+│   │   │   ├── 01-Compute_BBox.ipynb
+│   │   │   ├── 02-Draw_BBox.ipynb
+│   │   │   ├── 03-Why_LatLon_Is_Weird.ipynb
+│   │   │   └── README.md
+│   │   ├── 06-Distance
+│   │   │   ├── 00-Euclidean_Distance.ipynb
+│   │   │   ├── 01-Haversine_Distance.ipynb
+│   │   │   ├── 02-Compare_Methods.ipynb
+│   │   │   ├── 03-Distance_Applications.ipynb
+│   │   │   ├── 04-Performance_Batching.ipynb
+│   │   │   └── README.md
+│   │   ├── 07-Bearing
+│   │   │   ├── data
+│   │   │   │   └── bearing_examples.json
+│   │   │   ├── 00-What_Is_Bearing.ipynb
+│   │   │   ├── 01-Compute_Bearing.ipynb
+│   │   │   ├── 02-Bearing_V_Direction.ipynb
+│   │   │   ├── 03-Bearing_Applications.ipynb
+│   │   │   ├── 04-Advanced_Bearing.ipynb
+│   │   │   └── README.md
+│   │   ├── 08-Intercept_Pursuit_Module_Design
+│   │   │   ├── 00-Problem_Setup.ipynb
+│   │   │   ├── 01-Constant_Velocity_Intercept.ipynb
+│   │   │   ├── 02-Iterative_Pursuit.ipynb
+│   │   │   ├── 03-Visual_Simulation.ipynb
+│   │   │   ├── 04-Strategy_and_Limits.ipynb
+│   │   │   ├── 05-Advanced_Topics.ipynb
+│   │   │   └── README.md
+│   │   ├── 09-Intersections
+│   │   │   ├── data
+│   │   │   │   ├── countries.geojson
+│   │   │   │   ├── med_arc.geojson
+│   │   │   │   └── paths.geojson
+│   │   │   ├── 00-Lines_as_Paths.ipynb
+│   │   │   ├── 01-Line_Segment_Intersection.ipynb
+│   │   │   ├── 02-Line_vs_Polygon_Basics.ipynb
+│   │   │   ├── 03-Detecting_Intersections.ipynb
+│   │   │   └── README.md
+│   │   ├── 10-Buffers
+│   │   │   ├── data
+│   │   │   │   └── targets.geojson
+│   │   │   ├── 00_Buffer_Concepts.ipynb
+│   │   │   ├── 01_Buffering_Points.ipynb
+│   │   │   ├── 02-Buffering_Lines.ipynb
+│   │   │   ├── 03-Comparing_Buffer_Sizes.ipynb
+│   │   │   ├── 04-Buffer_Visualization_Strategies.ipynb
+│   │   │   ├── 05-CRS_Limitations.ipynb
+│   │   │   ├── 06-Applications_Impact_Zones.ipynb
+│   │   │   └── README.md
+│   │   ├── 11-Point_In_Polygon
+│   │   │   ├── data
+│   │   │   │   └── regions.geojson
+│   │   │   ├── 00_Click_Capture.ipynb
+│   │   │   ├── 01_Point_Representation.ipynb
+│   │   │   ├── 02_Point_In_Polygon_Basics.ipynb
+│   │   │   ├── 03_Ray_Casting_Algorithm.ipynb
+│   │   │   ├── 04_Testing_Against_Multiple_Features.ipynb
+│   │   │   ├── 05_Region_Classification.ipynb
+│   │   │   ├── 06_Interactive_Click_Applications.ipynb
+│   │   │   └── README.md
+│   │   ├── 12-Refactoring
+│   │   │   ├── 01-From-Notebook-to-Module.ipynb
+│   │   │   ├── geo.py
+│   │   │   └── README.md
+│   │   ├── 13-WDO_Library
+│   │   │   ├── 01-Installing-and-Using-WDO.ipynb
+│   │   │   └── README.md
+│   │   └── README.md
+│   ├── _micro_lessons copy
+│   │   ├── 00-Paths
+│   │   │   ├── 00-Working_Directory.ipynb
+│   │   │   ├── 01-Relative_vs_Absolute.ipynb
+│   │   │   ├── 02-Data_Elsewhere.ipynb
+│   │   │   ├── 03-Find_Project_Root.ipynb
+│   │   │   └── README.md
+│   │   ├── 01-JSON_GeoJSON
 │   │   │   ├── 00-Reading_JSON.ipynb
 │   │   │   ├── 01-GeoJSON_Structure.ipynb
 │   │   │   ├── 02-Feature_Collections.ipynb
@@ -1652,7 +1748,6 @@ completed_assignments/
 │   │   │   │   │       └── zw.svg
 │   │   │   │   └── country.json
 │   │   │   ├── convert_2_geojson.py
-│   │   │   ├── countries.geojson
 │   │   │   ├── countries_older.json
 │   │   │   ├── csv2json.py
 │   │   │   ├── data_summary.py
@@ -1729,7 +1824,6 @@ completed_assignments/
 │   │   │   └── top_level.txt
 │   │   └── workload_generator_v2.cpp
 │   └── pyproject.toml
-├── 02-Viewing_Geojson.ipynb
 └── README.md
 
 ============================================================
@@ -1745,14 +1839,14 @@ completed_assignments/
     Goal: complete all 11 + include your working project
 
   02-Missile_Geometry_202
-    42/60  [██████████████████████████████████████████░░░░░░░░░░░░░░░░░░]
+    58/60  [██████████████████████████████████████████████████████████░░]
     Goal: complete all 60 notebooks
 
   03-Data_Manager
     0/21  [░░░░░░░░░░░░░░░░░░░░░]
     Goal: complete all 21 notebooks
 
-  Total: 80/130 notebooks found
+  Total: 96/130 notebooks found
 
 
 ============================================================
@@ -1761,5 +1855,5 @@ completed_assignments/
   Use a number from 0 to 10, where 10 = 100% complete.
 ============================================================
 
-  Score: 6 / 10
+  Score: __ / 10
 

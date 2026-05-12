@@ -160,8 +160,8 @@ completed_assignments/
 │       │   ├── ✅ 01-Line_Segment_Intersection.ipynb
 │       │   ├── ✅ 02-Line_vs_Polygon_Basics.ipynb
 │       │   ├── ✅ 03-Detecting_Intersections.ipynb
-│       │   ├── ❌ 04-Highlighting_Intersected_Features.ipynb
-│       │   └── ❌ 05-Applications_Missile_Paths.ipynb
+│       │   ├── ✅ 04-Highlighting_Intersected_Features.ipynb
+│       │   └── ✅ 05-Applications_Missile_Paths.ipynb
 │       ├── 10-Buffers/
 │       │   ├── ✅ 00_Buffer_Concepts.ipynb
 │       │   ├── ✅ 01_Buffering_Points.ipynb
@@ -632,6 +632,18 @@ completed_assignments/
 │   │   │   ├── 05-Advanced_Topics.ipynb
 │   │   │   └── README.md
 │   │   ├── 09-Intersections
+│   │   │   ├── data
+│   │   │   │   ├── countries.geojson
+│   │   │   │   ├── med_arc.geojson
+│   │   │   │   └── paths.geojson
+│   │   │   ├── 00-Lines_as_Paths.ipynb
+│   │   │   ├── 01-Line_Segment_Intersection.ipynb
+│   │   │   ├── 02-Line_vs_Polygon_Basics.ipynb
+│   │   │   ├── 03-Detecting_Intersections.ipynb
+│   │   │   ├── 04-Highlighting_Intersected_Features.ipynb
+│   │   │   ├── 05-Applications_Missile_Paths.ipynb
+│   │   │   └── README.md
+│   │   ├── 09-Intersections copy
 │   │   │   ├── data
 │   │   │   │   ├── countries.geojson
 │   │   │   │   ├── med_arc.geojson
@@ -1839,14 +1851,14 @@ completed_assignments/
     Goal: complete all 11 + include your working project
 
   02-Missile_Geometry_202
-    58/60  [██████████████████████████████████████████████████████████░░]
+    60/60  [████████████████████████████████████████████████████████████]
     Goal: complete all 60 notebooks
 
   03-Data_Manager
     0/21  [░░░░░░░░░░░░░░░░░░░░░]
     Goal: complete all 21 notebooks
 
-  Total: 96/130 notebooks found
+  Total: 98/130 notebooks found
 
 
 ============================================================
